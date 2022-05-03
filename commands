@@ -1,5 +1,6 @@
 cd some-folder – перейти в папку
 cd .. – перейти назад
+touch filename – создать файл filename
 mkdir some-folder – создать папку
 git init – создать репозиторий в папке
 git add file-name.py – отследить изменения в файле file-name.py
