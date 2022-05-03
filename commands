@@ -8,3 +8,5 @@ git commit -m "Message" – записать изменения (коммит)
 git checkout branch – перейти в ветку
 git checkout -B new-branch – создать ветку от текущей
 git merge some-branch
+git stash – "отложить" изменения
+git stash apply – "вернуть" изменения
