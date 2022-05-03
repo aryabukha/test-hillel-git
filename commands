@@ -1,0 +1,10 @@
+cd some-folder – перейти в папку
+cd .. – перейти назад
+mkdir some-folder – создать папку
+git init – создать репозиторий в папке
+git add file-name.py – отследить изменения в файле file-name.py
+git add . – отслеживать всё в папке
+git commit -m "Message" – записать изменения (коммит)
+git checkout branch – перейти в ветку
+git checkout -B new-branch – создать ветку от текущей
+git merge some-branch
